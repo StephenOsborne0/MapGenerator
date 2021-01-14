@@ -8,3 +8,5 @@ This then gets exported to a json file with the coordinates of all the tiles.
 Also generates tilesets from the unique tiles.
 
 Screen, tile and tileset sizes are currently hardcoded in the Constants.cs file.
+
+To-do: Clean up json export and export tile id lookup to another .json file.
